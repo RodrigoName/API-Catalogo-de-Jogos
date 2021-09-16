@@ -1,2 +1,2 @@
-# API-Catalogo-de-Jogos
- API-Catalogo-de-Jogos
+# ApiCatalogoJogos
+Projeto do Bootcamp Decola Tech - Criando um catálogo de jogos
